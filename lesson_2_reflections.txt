@@ -1,2 +1,4 @@
 This is a file from new branch f1.
 This is new edit after editing file in branch f2.(I can't see their editing yet.)
+
+Edit in branch f2.
