@@ -1,1 +1,3 @@
 This is a file from new branch f1.
+
+Edit in branch f2.
